@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"inc",
+				"increments"
+			],
+			[
+				"loa",
+				"loan_number"
+			],
+			[
+				"laon",
+				"loan_number1"
+			],
+			[
+				"temp",
+				"temp_loan"
+			],
+			[
+				"exp",
+				"expiry_date"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"loan",
+				"loan_number1"
+			],
+			[
+				"lao",
+				"loan1"
+			],
+			[
+				"uniq",
+				"unique"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Pilot/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pilot/app/Http/Controllers/ArticleController.php",
+			"settings":
+			{
+				"buffer_size": 220,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pilot/resources/views/Article/article.blade.php",
+			"settings":
+			{
+				"buffer_size": 906,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pilot/resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pilot/resources/views/dashboard.blade.php",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pilot/resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/looser/Dropbox/Project_Pilot/Pilot",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/Article",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/auth",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/layouts",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/routes"
+	],
+	"file_history":
+	[
+		"/home/looser/Dropbox/Project_Pilot/Pilot/routes/web.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/DashboardController.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/AddpostController.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Article.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/Addpost/addpost.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/layouts/app.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/auth/register.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/.env",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/welcome.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/auth/login.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/Auth/LoginController.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/config/app.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/MainController.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/dashboard.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2017_02_03_220913_article.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/public/favicon.ico",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/User.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/config/database.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/config/auth.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/HomeController.php",
+		"/home/looser/Desktop/M/voip.community/index.html",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2017_02_03_183413_article.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2017_02_03_180456_user.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2017_02_03_183355_rticle.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/database/migrations/2017_02_03_183022_article.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/article (Case Conflict).php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/article.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/composer.json",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Providers/AppServiceProvider.php",
+		"/home/looser/Desktop/Event Time Announcer.html",
+		"/home/looser/Dropbox/Project_Pilot/abc test.txt",
+		"/home/looser/Dropbox/forhad alif/tttt.php",
+		"/home/looser/Desktop/tttt.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_082116_loans.php",
+		"/home/looser/Desktop/Pustok/resources/views/RecieveBook/recievebook.blade.php",
+		"/home/looser/Desktop/Pustok/public/robots.txt",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_212657_books.php",
+		"/home/looser/Desktop/Pustok/app/Loan.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_081601_create_loans_table.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_22_025201_loans.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_080448_Loan.php",
+		"/home/looser/Desktop/Pustok/resources/views/basic.blade.php",
+		"/home/looser/Desktop/Pustok/public/000.txt",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/recievebookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/AddBook/addbook.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/home.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/layouts/app.blade.php",
+		"/home/looser/Desktop/test/kop.php",
+		"/home/looser/Desktop/test/kop.html",
+		"/home/looser/Desktop/Pustok/resources/views/LendBook/lendbook.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/lendbookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/Status/status.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/statuscontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/layouts/book_details.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/all_book_controller.php",
+		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/add_book_controller.php",
+		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/add_book.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/book_view.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/routes/web.php",
+		"/home/looser/Desktop/Pustok/resources/views/welcome.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/WelcomePage/index.blade.php",
+		"/home/looser/Desktop/Pustok/serve",
+		"/home/looser/Desktop/Jan's LightOJ __ Categorized Problems.html",
+		"/home/looser/Desktop/Jan's LightOJ __ User Statistics __ #define_SUST (22311).html",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/addbookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/auth/login.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/HomeController.php",
+		"/home/looser/Desktop/Pustok/app/Book.php",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-login.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/demo.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-basic.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-labels-on-top.css",
+		"/home/looser/Desktop/Pustok/.env",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/looser/Desktop/Pustok/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/Auth/LoginController.php",
+		"/home/looser/Desktop/Pustok/resources/views/auth/register.blade.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_212158_users.php",
+		"/home/looser/Desktop/Pustok/app/User.php",
+		"/home/looser/Desktop/Pustok/config/database.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_211636_users.php",
+		"/home/looser/Desktop/Pustok/.env.example",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/elements.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/index.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/generic.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/config/app.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/CustomWelcome.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/CustomWelcome.blase.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/looser/Desktop/Pustok/vendor/laravel/framework/src/Illuminate"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Route",
+			"mobile_number",
+			"book",
+			"            '",
+			"');\n",
+			"header-",
+			"header",
+			"post",
+			"get",
+			"Happy",
+			"Auth",
+			"home",
+			"ho",
+			"home",
+			"email",
+			"logi",
+			"');\n",
+			"lara",
+			"app",
+			".css\"",
+			".js\"",
+			"img/",
+			"img",
+			"<link",
+			"link",
+			"HTML",
+			"link",
+			"images",
+			"asse",
+			"WelcomePage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"para",
+			"post",
+			"POST",
+			"GET",
+			"regno",
+			"/WelcomePage"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Pilot/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Pilot/app/Http/Controllers/ArticleController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Pilot/resources/views/Article/article.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								906,
+								906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Pilot/resources/views/layouts/app.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Pilot/resources/views/dashboard.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								971,
+								971
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Pilot/resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2221,
+								2221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 709.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Pilot_Farhad.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
